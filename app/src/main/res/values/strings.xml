@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TRIVIA</string>
+    <string name="acount">Don\'t have an account yet ? <font color="#5b39c9"><b><u><i>Sign Up</i></u></b></font> </string>
+    <string name="acountSignup">Already have a account ? <font color="#5b39c9"><b><u><i>Login</i></u></b></font> </string>
+    <string name="forgot_password"><u>forgot my password</u></string>
+</resources>
